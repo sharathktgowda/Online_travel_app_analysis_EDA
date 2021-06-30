@@ -7,3 +7,4 @@ The study is to analysis various hotels in India based on online travel portals 
 The main goal is to critically examine and visualize data about the various online travel portal (OTP) and create a database based on customers interest while
 the make bookings. The implemented solutions also disintegrate hotel counts based on their hotel ratings, image counts, property type, site review 
 ratings and many other factors for all the OTP under review.
+![image](https://user-images.githubusercontent.com/72537343/123977803-38325f80-d9b7-11eb-9d4c-a697a50d0878.png)
