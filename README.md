@@ -10,3 +10,12 @@ ratings and many other factors for all the OTP under review.
 
 ## Process Flow Diagram
 ![image](https://user-images.githubusercontent.com/72537343/123977803-38325f80-d9b7-11eb-9d4c-a697a50d0878.png)
+
+Team project information
+The Project was colabrated by a group of Four headed by me as a group leader helping them when they were stuck in the code and motivating the team.
+
+Group Members 
+ Olawaunmi Sunday Anota
+ Shakoor Ahamed Bhatt
+ Harshita Singh
+
